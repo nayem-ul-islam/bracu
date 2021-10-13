@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "906668182312",
+    "project_id": "nayem-ul",
+    "storage_bucket": "nayem-ul.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906668182312:android:ccc077c98e1516056f1e1d",
+        "android_client_info": {
+          "package_name": "com.example.bracu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906668182312-ov8tf3frekhcobj8982trd7auimr4p5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxYag-3Fdt6AI4V6JwwAazT-HPqaJIu1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906668182312-ov8tf3frekhcobj8982trd7auimr4p5c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
